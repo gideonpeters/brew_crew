@@ -1,48 +1,48 @@
 {
-  "project_info": {
-    "project_number": "621282215679",
-    "firebase_url": "https://ninja-brew-crew-f0cba.firebaseio.com",
-    "project_id": "ninja-brew-crew-f0cba",
-    "storage_bucket": "ninja-brew-crew-f0cba.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:621282215679:android:aa99a9c0f6286b92d92eca",
-        "android_client_info": {
-          "package_name": "com.gideonpeters.brew_crew"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "621282215679-ok7dd04o4dpvcv07vfrfgp8j6t8ehbr4.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.gideonpeters.brew_crew",
-            "certificate_hash": "d6cd7a31bf185bc60d071618e3064f23a13f46c0"
-          }
-        },
-        {
-          "client_id": "621282215679-ti1176e2k32u3sar3ft290859ev47d58.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBITfmVB3Jzb1_s4m68-J2MPM_Mgjr5Zwc"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "621282215679-ti1176e2k32u3sar3ft290859ev47d58.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
+	"project_info": {
+		"project_number": "621282215679",
+		"firebase_url": "https://ninja-brew-crew-f0cba.firebaseio.com",
+		"project_id": "ninja-brew-crew-f0cba",
+		"storage_bucket": "ninja-brew-crew-f0cba.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:621282215679:android:aa99a9c0f6286b92d92eca",
+				"android_client_info": {
+					"package_name": "com.gideonpeters.brew_crew"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "621282215679-ok7dd04o4dpvcv07vfrfgp8j6t8ehbr4.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.gideonpeters.brew_crew",
+						"certificate_hash": "d6cd7a31bf185bc60d071618e3064f23a13f46c0"
+					}
+				},
+				{
+					"client_id": "621282215679-ti1176e2k32u3sar3ft290859ev47d58.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyBITfmVB3Jzb1_s4m68-J2MPM_Mgjr5Zwc"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "621282215679-ti1176e2k32u3sar3ft290859ev47d58.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
 }
